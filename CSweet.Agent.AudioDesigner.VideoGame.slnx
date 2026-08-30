@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/CSweet.Agent.AudioDesigner.VideoGame/CSweet.Agent.AudioDesigner.VideoGame.csproj" />
+  <Project Path="tests/CSweet.Agent.AudioDesigner.VideoGame.Tests/CSweet.Agent.AudioDesigner.VideoGame.Tests.csproj" />
+</Solution>
