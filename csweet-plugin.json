@@ -9,7 +9,7 @@
   },
   "id": "com.csweet.video-game-audio-designer",
   "name": "Samir Haddad",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "publisher": { "id": "com.csweet", "name": "C-Sweet" },
   "runtime": {
     "type": "dotnet-project",
